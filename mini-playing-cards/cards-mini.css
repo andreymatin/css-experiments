@@ -1,4 +1,11 @@
 /**
+ * @title Mini playing cards
+  * @version 0.1
+ * @author Andrey Matin
+ * @date 11.10.2016
+ */
+
+/**
  * Desc
  */
 .desc {
@@ -7,6 +14,8 @@
     background-color: #5f9341;
 
     /*
+    Additional themes
+
     http://lea.verou.me/css3patterns/#carbon
     http://lea.verou.me/css3patterns/#carbon-fibre
     http://lea.verou.me/css3patterns/#chocolate-weave
@@ -29,7 +38,7 @@
 }
 
 .desc-noise {
-    /* http://www.mightyme.co.uk/css-noise/ */
+    /* Noise effect: http://www.mightyme.co.uk/css-noise/ */
 
     position: relative;
     z-index: 1;
